@@ -15,3 +15,10 @@ JAVA Framework necessário
 - pesquisar como salvar  imagens
 - Ionic - Desenvolvimento mobile híbrido
 - Junit
+
+- [x] (criado projeto de api de usuarios)
+- [ ] (criado projeto de api de produtos)
+- [ ] (criado projeto de api de ????)
+- [ ] (????)
+- [ ] (????)
+- [ ] (????)
