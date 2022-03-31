@@ -18,7 +18,7 @@ JAVA Framework necessário
 
 - [x] (criado projeto de api de usuarios)
 - [ ] (criado projeto de api de produtos)
-- [ ] (criado projeto de api de ????)
-- [ ] (????)
+- [ ] (criado projeto de api de loja)
+- [ ] (enviar lista de pedidos po whats)
 - [ ] (????)
 - [ ] (????)
